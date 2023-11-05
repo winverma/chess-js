@@ -1,5 +1,7 @@
 # Javascript Chess Game by Win Verma
 
+Use [.js] Live Server Environment for Playing.
+
 Sample Images of the Game UI:
 
 ![Screenshot 2023-11-05 174928](https://github.com/winverma/chess-js/assets/82725829/eaeb4861-9eb0-407c-9fdd-fb778e57e09f)
