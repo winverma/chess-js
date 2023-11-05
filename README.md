@@ -1,3 +1,3 @@
 # chess-js
 
-Chess Game using JavaScript with imported Libraries.
+An interactive chess game using JavaScript with imported libraries.
