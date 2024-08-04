@@ -1,6 +1,6 @@
 # Javascript Chess Game by Win Verma
 
-Use [.js] Live Server Environment for Playing.
+Use [.js] Live Server Environment for Playing on local_machine or just use the desc site.
 
 Images of the Game UI:
 
